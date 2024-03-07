@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 export default function A({ src, alt, ...props }) {
   return (
     <a {...props}>
-      <img src={src} alt={alt} />
+      <img {...props} src={src} alt={alt} />
     </a>
   )
 }

@@ -1,0 +1,19 @@
+#button:hover {
+  color: #6495ed;
+  transition: 0.1s;
+  cursor: pointer;
+}
+
+.img-content {
+  width: 40px;
+  height: 100%;
+}
+
+.style {
+  font-weight: bold;
+}
+
+#p-contact {
+  font weight: bold;
+  font-size: 20px;
+}

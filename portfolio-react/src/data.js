@@ -5,7 +5,7 @@ export const DATA_A = [
     id: 1
   },
   {
-    href: '#aboutme',
+    href: '#about',
     title: 'About Me',
     id: 2
   },
@@ -15,7 +15,7 @@ export const DATA_A = [
     id: 3
   },
   {
-    href: '#contacs',
+    href: '#contact',
     title: 'Contact',
     id: 4
   }
